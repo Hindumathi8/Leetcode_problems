@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
