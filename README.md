@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0704-binary-search) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0367-valid-perfect-square) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
