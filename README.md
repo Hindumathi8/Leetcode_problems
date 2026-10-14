@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Hindumathi8/Leetcode_problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
